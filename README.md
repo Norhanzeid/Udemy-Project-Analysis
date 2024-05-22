@@ -1,5 +1,5 @@
 # Udemy-Project-Analysis
- I'm thrilled to share my latest project in data analysis using the Udemy dataset . I conducted an in-depth analysis of each column 📊, extracting valuable insights through aggregation, filtering, and groupby techniques. I utilized Seaborn and Matplotlib for clear visualizations and effectively handled data and time formats to enhance the analysis.
+ I conducted an in-depth analysis of each column 📊, extracting valuable insights through aggregation, filtering, and groupby techniques. I utilized Seaborn and Matplotlib for clear visualizations and effectively handled data and time formats to enhance the analysis.
 
 📍 I'm excited to share the insights and the questions I answered through this analysis:
 
